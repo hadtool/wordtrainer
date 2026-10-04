@@ -1,0 +1,842 @@
+[
+ {
+  "id": "unit08_0001",
+  "word": "acquaintance",
+  "pos": "n.",
+  "tr": "знакомый",
+  "options": [
+   "a person who gives help and advice",
+   "advice, assistance",
+   "not being present, time away",
+   "a friend you do not know well"
+  ],
+  "correct": 3,
+  "group": "Social Networking"
+ },
+ {
+  "id": "unit08_0002",
+  "word": "adolescent",
+  "pos": "n.",
+  "tr": "подросток",
+  "options": [
+   "a person who gives help and advice",
+   "the surface of land",
+   "information in the form of numbers; data",
+   "person between the ages of thirteen and nineteen"
+  ],
+  "correct": 3,
+  "group": "Social Networking"
+ },
+ {
+  "id": "unit08_0003",
+  "word": "apparently",
+  "pos": "adv.",
+  "tr": "по-видимому",
+  "options": [
+   "a friend you do not know well",
+   "seemingly",
+   "able to do something",
+   "close but not exactly"
+  ],
+  "correct": 1,
+  "group": "Social Networking"
+ },
+ {
+  "id": "unit08_0004",
+  "word": "carry out",
+  "pos": "v.",
+  "tr": "выполнять",
+  "options": [
+   "to do, perform",
+   "to fight",
+   "to force",
+   "to experience, suffer"
+  ],
+  "correct": 0,
+  "group": "Social Networking"
+ },
+ {
+  "id": "unit08_0005",
+  "word": "community",
+  "pos": "n.",
+  "tr": "сообщество",
+  "options": [
+   "a social group",
+   "hallway",
+   "person between the ages of thirteen and nineteen",
+   "lack of satisfaction, inability to reach goals"
+  ],
+  "correct": 0,
+  "group": "Social Networking"
+ },
+ {
+  "id": "unit08_0006",
+  "word": "consequence",
+  "pos": "n.",
+  "tr": "последствие",
+  "options": [
+   "difference between two things that should be the same",
+   "a button used to turn on lights or machines",
+   "lack of satisfaction, inability to reach goals",
+   "result"
+  ],
+  "correct": 3,
+  "group": "Social Networking"
+ },
+ {
+  "id": "unit08_0007",
+  "word": "contact",
+  "pos": "n.",
+  "tr": "контакт",
+  "options": [
+   "a social group",
+   "communication, connection",
+   "information in the form of numbers; data",
+   "being the same, having the same rights and opportunities"
+  ],
+  "correct": 1,
+  "group": "Social Networking"
+ },
+ {
+  "id": "unit08_0008",
+  "word": "eradicate",
+  "pos": "v.",
+  "tr": "искоренять",
+  "options": [
+   "to remove completely",
+   "to experience, suffer",
+   "to move forward",
+   "to do, perform"
+  ],
+  "correct": 0,
+  "group": "Social Networking"
+ },
+ {
+  "id": "unit08_0009",
+  "word": "exchange",
+  "pos": "v.",
+  "tr": "обмениваться",
+  "options": [
+   "to remove completely",
+   "to confirm, make a person feel valued",
+   "to trade something",
+   "to continue"
+  ],
+  "correct": 2,
+  "group": "Social Networking"
+ },
+ {
+  "id": "unit08_0010",
+  "word": "explode",
+  "pos": "v.",
+  "tr": "взрывообразно расти",
+  "options": [
+   "to make necessary",
+   "to do, perform",
+   "to give, commit",
+   "to grow suddenly and rapidly"
+  ],
+  "correct": 3,
+  "group": "Social Networking"
+ },
+ {
+  "id": "unit08_0011",
+  "word": "immense",
+  "pos": "adj.",
+  "tr": "огромный",
+  "options": [
+   "similar in size or amount",
+   "able to do something",
+   "very big; huge",
+   "causing things to slide or slip, difficult to hold or stand on"
+  ],
+  "correct": 2,
+  "group": "Social Networking"
+ },
+ {
+  "id": "unit08_0012",
+  "word": "impose",
+  "pos": "v.",
+  "tr": "навязывать",
+  "options": [
+   "to force",
+   "to develop; open up",
+   "to fight",
+   "to make necessary"
+  ],
+  "correct": 0,
+  "group": "Social Networking"
+ },
+ {
+  "id": "unit08_0013",
+  "word": "interact",
+  "pos": "v.",
+  "tr": "взаимодействовать",
+  "options": [
+   "to trade something",
+   "to confirm, make a person feel valued",
+   "to communicate with",
+   "to continue"
+  ],
+  "correct": 2,
+  "group": "Social Networking"
+ },
+ {
+  "id": "unit08_0014",
+  "word": "post",
+  "pos": "v.",
+  "tr": "публиковать",
+  "options": [
+   "to make necessary",
+   "to develop; open up",
+   "to modernize, improve",
+   "to display information in a public place"
+  ],
+  "correct": 3,
+  "group": "Social Networking"
+ },
+ {
+  "id": "unit08_0015",
+  "word": "pursue",
+  "pos": "v.",
+  "tr": "преследовать",
+  "options": [
+   "to display information in a public place",
+   "to hunt for; seek",
+   "to give, commit",
+   "to trade something"
+  ],
+  "correct": 1,
+  "group": "Social Networking"
+ },
+ {
+  "id": "unit08_0016",
+  "word": "statistics",
+  "pos": "n.",
+  "tr": "статистика",
+  "options": [
+   "information in the form of numbers; data",
+   "being the same, having the same rights and opportunities",
+   "leisure activities",
+   "the outside of something"
+  ],
+  "correct": 0,
+  "group": "Social Networking"
+ },
+ {
+  "id": "unit08_0017",
+  "word": "susceptible",
+  "pos": "adj.",
+  "tr": "восприимчивый",
+  "options": [
+   "easily affected",
+   "related to school, especially university",
+   "small",
+   "able to do something"
+  ],
+  "correct": 0,
+  "group": "Social Networking"
+ },
+ {
+  "id": "unit08_0018",
+  "word": "trend",
+  "pos": "n.",
+  "tr": "тенденция",
+  "options": [
+   "movement in a certain direction, popular fashion",
+   "result",
+   "a friend you do not know well",
+   "being the same, having the same rights and opportunities"
+  ],
+  "correct": 0,
+  "group": "Social Networking"
+ },
+ {
+  "id": "unit08_0019",
+  "word": "undergo",
+  "pos": "v.",
+  "tr": "переживать",
+  "options": [
+   "to continue",
+   "to communicate with",
+   "to experience, suffer",
+   "to carry, have responsibility for"
+  ],
+  "correct": 2,
+  "group": "Social Networking"
+ },
+ {
+  "id": "unit08_0020",
+  "word": "unfold",
+  "pos": "v.",
+  "tr": "разворачиваться",
+  "options": [
+   "to force",
+   "to do, perform",
+   "to remove completely",
+   "to develop; open up"
+  ],
+  "correct": 3,
+  "group": "Social Networking"
+ },
+ {
+  "id": "unit08_0021",
+  "word": "absence",
+  "pos": "n.",
+  "tr": "отсутствие",
+  "options": [
+   "the surface of land",
+   "hallway",
+   "the outside of something",
+   "not being present, time away"
+  ],
+  "correct": 3,
+  "group": "Why Are Women Leaving Science Careers?"
+ },
+ {
+  "id": "unit08_0022",
+  "word": "academic",
+  "pos": "adj.",
+  "tr": "академический",
+  "options": [
+   "unable to do things normally",
+   "related to school, especially university",
+   "similar in size or amount",
+   "small"
+  ],
+  "correct": 1,
+  "group": "Why Are Women Leaving Science Careers?"
+ },
+ {
+  "id": "unit08_0023",
+  "word": "approximately",
+  "pos": "adv.",
+  "tr": "приблизительно",
+  "options": [
+   "to exist in large numbers",
+   "a surface at an angle, with the top higher than the bottom",
+   "close but not exactly",
+   "seemingly"
+  ],
+  "correct": 2,
+  "group": "Why Are Women Leaving Science Careers?"
+ },
+ {
+  "id": "unit08_0024",
+  "word": "bear",
+  "pos": "v.",
+  "tr": "нести",
+  "options": [
+   "to communicate with",
+   "to carry, have responsibility for",
+   "to be responsible for, be the cause of",
+   "to exist in large numbers"
+  ],
+  "correct": 1,
+  "group": "Why Are Women Leaving Science Careers?"
+ },
+ {
+  "id": "unit08_0025",
+  "word": "commensurate",
+  "pos": "adj.",
+  "tr": "соразмерный",
+  "options": [
+   "very big; huge",
+   "unable to do things normally",
+   "easily affected",
+   "similar in size or amount"
+  ],
+  "correct": 3,
+  "group": "Why Are Women Leaving Science Careers?"
+ },
+ {
+  "id": "unit08_0026",
+  "word": "devote",
+  "pos": "v.",
+  "tr": "посвящать",
+  "options": [
+   "to carry, have responsibility for",
+   "to grow suddenly and rapidly",
+   "to give, commit",
+   "to hunt for; seek"
+  ],
+  "correct": 2,
+  "group": "Why Are Women Leaving Science Careers?"
+ },
+ {
+  "id": "unit08_0027",
+  "word": "dire",
+  "pos": "adj.",
+  "tr": "ужасный",
+  "options": [
+   "very serious or extreme; very bad",
+   "able to do something",
+   "related to school, especially university",
+   "more than is reasonable"
+  ],
+  "correct": 0,
+  "group": "Why Are Women Leaving Science Careers?"
+ },
+ {
+  "id": "unit08_0028",
+  "word": "discrepancy",
+  "pos": "n.",
+  "tr": "расхождение",
+  "options": [
+   "difference between two things that should be the same",
+   "advice, assistance",
+   "a friend you do not know well",
+   "leisure activities"
+  ],
+  "correct": 0,
+  "group": "Why Are Women Leaving Science Careers?"
+ },
+ {
+  "id": "unit08_0029",
+  "word": "equality",
+  "pos": "n.",
+  "tr": "равенство",
+  "options": [
+   "being the same, having the same rights and opportunities",
+   "a surface at an angle, with the top higher than the bottom",
+   "advice, assistance",
+   "a button used to turn on lights or machines"
+  ],
+  "correct": 0,
+  "group": "Why Are Women Leaving Science Careers?"
+ },
+ {
+  "id": "unit08_0030",
+  "word": "frustration",
+  "pos": "n.",
+  "tr": "разочарование",
+  "options": [
+   "a friend you do not know well",
+   "communication, connection",
+   "the condition of being poor",
+   "lack of satisfaction, inability to reach goals"
+  ],
+  "correct": 3,
+  "group": "Why Are Women Leaving Science Careers?"
+ },
+ {
+  "id": "unit08_0031",
+  "word": "funding",
+  "pos": "n.",
+  "tr": "финансирование",
+  "options": [
+   "financial support",
+   "the raised edge of the street",
+   "information in the form of numbers; data",
+   "a button used to turn on lights or machines"
+  ],
+  "correct": 0,
+  "group": "Why Are Women Leaving Science Careers?"
+ },
+ {
+  "id": "unit08_0032",
+  "word": "guidance",
+  "pos": "n.",
+  "tr": "руководство",
+  "options": [
+   "a smooth surface that allows access between levels",
+   "difference between two things that should be the same",
+   "a person who gives help and advice",
+   "advice, assistance"
+  ],
+  "correct": 3,
+  "group": "Why Are Women Leaving Science Careers?"
+ },
+ {
+  "id": "unit08_0033",
+  "word": "inordinate",
+  "pos": "adj.",
+  "tr": "чрезмерный",
+  "options": [
+   "more than is reasonable",
+   "able to do something",
+   "related to school, especially university",
+   "very big; huge"
+  ],
+  "correct": 0,
+  "group": "Why Are Women Leaving Science Careers?"
+ },
+ {
+  "id": "unit08_0034",
+  "word": "invaluable",
+  "pos": "adj.",
+  "tr": "бесценный",
+  "options": [
+   "difficult to manage",
+   "very valuable; extremely useful",
+   "more than is reasonable",
+   "causing things to slide or slip, difficult to hold or stand on"
+  ],
+  "correct": 1,
+  "group": "Why Are Women Leaving Science Careers?"
+ },
+ {
+  "id": "unit08_0035",
+  "word": "mentor",
+  "pos": "n.",
+  "tr": "наставник",
+  "options": [
+   "a friend you do not know well",
+   "a smooth surface that allows access between levels",
+   "lack of satisfaction, inability to reach goals",
+   "a person who gives help and advice"
+  ],
+  "correct": 3,
+  "group": "Why Are Women Leaving Science Careers?"
+ },
+ {
+  "id": "unit08_0036",
+  "word": "persist",
+  "pos": "v.",
+  "tr": "упорствовать",
+  "options": [
+   "to give, commit",
+   "to continue",
+   "to remove completely",
+   "to trade something"
+  ],
+  "correct": 1,
+  "group": "Why Are Women Leaving Science Careers?"
+ },
+ {
+  "id": "unit08_0037",
+  "word": "pressure",
+  "pos": "n.",
+  "tr": "давление",
+  "options": [
+   "the surface of land",
+   "the raised edge of the street",
+   "leisure activities",
+   "demands; responsibilities"
+  ],
+  "correct": 3,
+  "group": "Why Are Women Leaving Science Careers?"
+ },
+ {
+  "id": "unit08_0038",
+  "word": "progress",
+  "pos": "v.",
+  "tr": "продвигаться",
+  "options": [
+   "to remove completely",
+   "to communicate with",
+   "to move forward",
+   "to give, commit"
+  ],
+  "correct": 2,
+  "group": "Why Are Women Leaving Science Careers?"
+ },
+ {
+  "id": "unit08_0039",
+  "word": "struggle",
+  "pos": "v.",
+  "tr": "бороться",
+  "options": [
+   "to grow suddenly and rapidly",
+   "to modernize, improve",
+   "to fight",
+   "to display information in a public place"
+  ],
+  "correct": 2,
+  "group": "Why Are Women Leaving Science Careers?"
+ },
+ {
+  "id": "unit08_0040",
+  "word": "validate",
+  "pos": "v.",
+  "tr": "подтверждать",
+  "options": [
+   "to exist in large numbers",
+   "to force",
+   "to continue",
+   "to confirm, make a person feel valued"
+  ],
+  "correct": 3,
+  "group": "Why Are Women Leaving Science Careers?"
+ },
+ {
+  "id": "unit08_0041",
+  "word": "abound",
+  "pos": "v.",
+  "tr": "изобиловать",
+  "options": [
+   "to continue",
+   "to grow suddenly and rapidly",
+   "to exist in large numbers",
+   "to modernize, improve"
+  ],
+  "correct": 2,
+  "group": "Wheelchair-Accessibility Issues"
+ },
+ {
+  "id": "unit08_0042",
+  "word": "account for",
+  "pos": "v.",
+  "tr": "объяснять",
+  "options": [
+   "to confirm, make a person feel valued",
+   "to be responsible for, be the cause of",
+   "to force",
+   "to grow suddenly and rapidly"
+  ],
+  "correct": 1,
+  "group": "Wheelchair-Accessibility Issues"
+ },
+ {
+  "id": "unit08_0043",
+  "word": "capable",
+  "pos": "adj.",
+  "tr": "способный",
+  "options": [
+   "unable to do things normally",
+   "able to do something",
+   "more than is reasonable",
+   "causing things to slide or slip, difficult to hold or stand on"
+  ],
+  "correct": 1,
+  "group": "Wheelchair-Accessibility Issues"
+ },
+ {
+  "id": "unit08_0044",
+  "word": "compact",
+  "pos": "adj.",
+  "tr": "компактный",
+  "options": [
+   "related to school, especially university",
+   "easily affected",
+   "small",
+   "unable to do things normally"
+  ],
+  "correct": 2,
+  "group": "Wheelchair-Accessibility Issues"
+ },
+ {
+  "id": "unit08_0045",
+  "word": "corridor",
+  "pos": "n.",
+  "tr": "коридор",
+  "options": [
+   "advice, assistance",
+   "result",
+   "difference between two things that should be the same",
+   "hallway"
+  ],
+  "correct": 3,
+  "group": "Wheelchair-Accessibility Issues"
+ },
+ {
+  "id": "unit08_0046",
+  "word": "curb",
+  "pos": "n.",
+  "tr": "бордюр",
+  "options": [
+   "person between the ages of thirteen and nineteen",
+   "the raised edge of the street",
+   "a smooth surface that allows access between levels",
+   "demands; responsibilities"
+  ],
+  "correct": 1,
+  "group": "Wheelchair-Accessibility Issues"
+ },
+ {
+  "id": "unit08_0047",
+  "word": "disability",
+  "pos": "n.",
+  "tr": "инвалидность",
+  "options": [
+   "a condition that makes it difficult to do things other people do",
+   "not being present, time away",
+   "demands; responsibilities",
+   "hallway"
+  ],
+  "correct": 0,
+  "group": "Wheelchair-Accessibility Issues"
+ },
+ {
+  "id": "unit08_0048",
+  "word": "exterior",
+  "pos": "n.",
+  "tr": "наружная часть",
+  "options": [
+   "a social group",
+   "the outside of something",
+   "information in the form of numbers; data",
+   "a smooth surface that allows access between levels"
+  ],
+  "correct": 1,
+  "group": "Wheelchair-Accessibility Issues"
+ },
+ {
+  "id": "unit08_0049",
+  "word": "incapacitated",
+  "pos": "adj.",
+  "tr": "нетрудоспособный",
+  "options": [
+   "causing things to slide or slip, difficult to hold or stand on",
+   "unable to do things normally",
+   "able to do something",
+   "small"
+  ],
+  "correct": 1,
+  "group": "Wheelchair-Accessibility Issues"
+ },
+ {
+  "id": "unit08_0050",
+  "word": "interior",
+  "pos": "n.",
+  "tr": "внутренняя часть",
+  "options": [
+   "a surface at an angle, with the top higher than the bottom",
+   "not being present, time away",
+   "the inside of something",
+   "being the same, having the same rights and opportunities"
+  ],
+  "correct": 2,
+  "group": "Wheelchair-Accessibility Issues"
+ },
+ {
+  "id": "unit08_0051",
+  "word": "necessitate",
+  "pos": "v.",
+  "tr": "делать необходимым",
+  "options": [
+   "to give, commit",
+   "to trade something",
+   "to make necessary",
+   "to force"
+  ],
+  "correct": 2,
+  "group": "Wheelchair-Accessibility Issues"
+ },
+ {
+  "id": "unit08_0052",
+  "word": "poverty",
+  "pos": "n.",
+  "tr": "бедность",
+  "options": [
+   "the condition of being poor",
+   "the raised edge of the street",
+   "movement in a certain direction, popular fashion",
+   "financial support"
+  ],
+  "correct": 0,
+  "group": "Wheelchair-Accessibility Issues"
+ },
+ {
+  "id": "unit08_0053",
+  "word": "ramp",
+  "pos": "n.",
+  "tr": "пандус",
+  "options": [
+   "a friend you do not know well",
+   "hallway",
+   "a smooth surface that allows access between levels",
+   "difference between two things that should be the same"
+  ],
+  "correct": 2,
+  "group": "Wheelchair-Accessibility Issues"
+ },
+ {
+  "id": "unit08_0054",
+  "word": "recreation",
+  "pos": "n.",
+  "tr": "отдых",
+  "options": [
+   "leisure activities",
+   "a condition that makes it difficult to do things other people do",
+   "hallway",
+   "the outside of something"
+  ],
+  "correct": 0,
+  "group": "Wheelchair-Accessibility Issues"
+ },
+ {
+  "id": "unit08_0055",
+  "word": "slippery",
+  "pos": "adj.",
+  "tr": "скользкий",
+  "options": [
+   "very big; huge",
+   "causing things to slide or slip, difficult to hold or stand on",
+   "related to school, especially university",
+   "able to do something"
+  ],
+  "correct": 1,
+  "group": "Wheelchair-Accessibility Issues"
+ },
+ {
+  "id": "unit08_0056",
+  "word": "slope",
+  "pos": "n.",
+  "tr": "склон",
+  "options": [
+   "a surface at an angle, with the top higher than the bottom",
+   "the surface of land",
+   "a condition that makes it difficult to do things other people do",
+   "information in the form of numbers; data"
+  ],
+  "correct": 0,
+  "group": "Wheelchair-Accessibility Issues"
+ },
+ {
+  "id": "unit08_0057",
+  "word": "switch",
+  "pos": "n.",
+  "tr": "выключатель",
+  "options": [
+   "hallway",
+   "advice, assistance",
+   "the surface of land",
+   "a button used to turn on lights or machines"
+  ],
+  "correct": 3,
+  "group": "Wheelchair-Accessibility Issues"
+ },
+ {
+  "id": "unit08_0058",
+  "word": "terrain",
+  "pos": "n.",
+  "tr": "местность",
+  "options": [
+   "the inside of something",
+   "the raised edge of the street",
+   "the surface of land",
+   "a button used to turn on lights or machines"
+  ],
+  "correct": 2,
+  "group": "Wheelchair-Accessibility Issues"
+ },
+ {
+  "id": "unit08_0059",
+  "word": "unwieldy",
+  "pos": "adj.",
+  "tr": "громоздкий",
+  "options": [
+   "difficult to manage",
+   "able to do something",
+   "similar in size or amount",
+   "unable to do things normally"
+  ],
+  "correct": 0,
+  "group": "Wheelchair-Accessibility Issues"
+ },
+ {
+  "id": "unit08_0060",
+  "word": "update",
+  "pos": "v.",
+  "tr": "обновлять",
+  "options": [
+   "to develop; open up",
+   "to modernize, improve",
+   "to display information in a public place",
+   "to move forward"
+  ],
+  "correct": 1,
+  "group": "Wheelchair-Accessibility Issues"
+ }
+]
