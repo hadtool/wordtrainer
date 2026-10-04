@@ -53,5 +53,7 @@ for u in units:
     f.write_text(json.dumps(res, ensure_ascii=False, indent=1), encoding="utf-8")
     index.append({"id": name, "title": f"Unit {u['n']} · {u['title']}", "level": f"U{u['n']}", "file": f"{name}.json"})
     print(name, len(res), "слов")
-(OUT / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=1), encoding="utf-8")
+ip = OUT / "index.json"
+keep = [e for e in (json.loads(ip.read_text()) if ip.exists() else []) if not e["id"].startswith("unit")]
+ip.write_text(json.dumps(sorted(keep + index, key=lambda e: (e["id"].startswith("unit"), e["id"])), ensure_ascii=False, indent=1), encoding="utf-8")
 if missing: print("Нет перевода:", ", ".join(missing))

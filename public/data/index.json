@@ -1,62 +1,14 @@
 [
  {
-  "id": "unit01",
-  "title": "Unit 1 · The Natural World",
-  "level": "U1",
-  "file": "unit01.json"
+  "id": "a1",
+  "title": "A1 · CEFR",
+  "level": "A1",
+  "file": "a1.json"
  },
  {
-  "id": "unit02",
-  "title": "Unit 2 · Leisure Time",
-  "level": "U2",
-  "file": "unit02.json"
- },
- {
-  "id": "unit03",
-  "title": "Unit 3 · Transportation",
-  "level": "U3",
-  "file": "unit03.json"
- },
- {
-  "id": "unit04",
-  "title": "Unit 4 · Culture",
-  "level": "U4",
-  "file": "unit04.json"
- },
- {
-  "id": "unit05",
-  "title": "Unit 5 · Health",
-  "level": "U5",
-  "file": "unit05.json"
- },
- {
-  "id": "unit06",
-  "title": "Unit 6 · Tourism",
-  "level": "U6",
-  "file": "unit06.json"
- },
- {
-  "id": "unit07",
-  "title": "Unit 7 · Business",
-  "level": "U7",
-  "file": "unit07.json"
- },
- {
-  "id": "unit08",
-  "title": "Unit 8 · Society",
-  "level": "U8",
-  "file": "unit08.json"
- },
- {
-  "id": "unit09",
-  "title": "Unit 9 · Education",
-  "level": "U9",
-  "file": "unit09.json"
- },
- {
-  "id": "unit10",
-  "title": "Unit 10 · Technology/Inventions",
-  "level": "U10",
-  "file": "unit10.json"
+  "id": "a2",
+  "title": "A2 · CEFR",
+  "level": "A2",
+  "file": "a2.json"
  }
 ]
