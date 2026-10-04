@@ -1,0 +1,842 @@
+[
+ {
+  "id": "unit01_0001",
+  "word": "aquatic",
+  "pos": "adj.",
+  "tr": "водный",
+  "options": [
+   "relating to change from one type to another",
+   "unprotected from the wind",
+   "active during the day",
+   "living in the water"
+  ],
+  "correct": 3,
+  "group": "Environmental Impacts of Logging"
+ },
+ {
+  "id": "unit01_0002",
+  "word": "array",
+  "pos": "n.",
+  "tr": "набор",
+  "options": [
+   "finding the way from one place to another",
+   "a large number, a collection",
+   "a strong effect",
+   "the change from liquid to gas; loss of water to the air"
+  ],
+  "correct": 1,
+  "group": "Environmental Impacts of Logging"
+ },
+ {
+  "id": "unit01_0003",
+  "word": "defense",
+  "pos": "n.",
+  "tr": "защита",
+  "options": [
+   "movement from one place to another",
+   "a priority; an urgent need",
+   "protection",
+   "a difficult act or achievement"
+  ],
+  "correct": 2,
+  "group": "Environmental Impacts of Logging"
+ },
+ {
+  "id": "unit01_0004",
+  "word": "deforestation",
+  "pos": "n.",
+  "tr": "вырубка лесов",
+  "options": [
+   "a difficult act or achievement",
+   "the removal of all trees from a large area",
+   "behavior to deal with difficult situations",
+   "one half of the Earth; also, one half of a sphere"
+  ],
+  "correct": 1,
+  "group": "Environmental Impacts of Logging"
+ },
+ {
+  "id": "unit01_0005",
+  "word": "environment",
+  "pos": "n.",
+  "tr": "окружающая среда",
+  "options": [
+   "a difficult act or achievement",
+   "the natural world",
+   "behavior to deal with difficult situations",
+   "loss of soil from action of water or wind"
+  ],
+  "correct": 1,
+  "group": "Environmental Impacts of Logging"
+ },
+ {
+  "id": "unit01_0006",
+  "word": "erosion",
+  "pos": "n.",
+  "tr": "эрозия",
+  "options": [
+   "plants",
+   "a sudden or big change",
+   "loss of soil from action of water or wind",
+   "food"
+  ],
+  "correct": 2,
+  "group": "Environmental Impacts of Logging"
+ },
+ {
+  "id": "unit01_0007",
+  "word": "extend",
+  "pos": "v.",
+  "tr": "простираться",
+  "options": [
+   "to reproduce",
+   "to prevent, slow down",
+   "to disappear",
+   "to reach past, get bigger"
+  ],
+  "correct": 3,
+  "group": "Environmental Impacts of Logging"
+ },
+ {
+  "id": "unit01_0008",
+  "word": "fell",
+  "pos": "v.",
+  "tr": "валить (деревья)",
+  "options": [
+   "to cut down",
+   "to provide energy",
+   "to develop gradually",
+   "to reduce to the least possible amount"
+  ],
+  "correct": 0,
+  "group": "Environmental Impacts of Logging"
+ },
+ {
+  "id": "unit01_0009",
+  "word": "habitat",
+  "pos": "n.",
+  "tr": "среда обитания",
+  "options": [
+   "the change from liquid to gas; loss of water to the air",
+   "the natural area where a plant or animal lives",
+   "loss of soil from action of water or wind",
+   "the edge of something"
+  ],
+  "correct": 1,
+  "group": "Environmental Impacts of Logging"
+ },
+ {
+  "id": "unit01_0010",
+  "word": "impact",
+  "pos": "n.",
+  "tr": "воздействие",
+  "options": [
+   "a person who watches something",
+   "a strong effect",
+   "the edge of something",
+   "finding the way from one place to another"
+  ],
+  "correct": 1,
+  "group": "Environmental Impacts of Logging"
+ },
+ {
+  "id": "unit01_0011",
+  "word": "inhibit",
+  "pos": "v.",
+  "tr": "сдерживать",
+  "options": [
+   "to change to fit a situation or environment",
+   "to disappear",
+   "to prevent, slow down",
+   "to catch"
+  ],
+  "correct": 2,
+  "group": "Environmental Impacts of Logging"
+ },
+ {
+  "id": "unit01_0012",
+  "word": "intercept",
+  "pos": "v.",
+  "tr": "перехватывать",
+  "options": [
+   "to prevent, slow down",
+   "to keep from changing, maintain",
+   "to catch",
+   "to change to fit a situation or environment"
+  ],
+  "correct": 2,
+  "group": "Environmental Impacts of Logging"
+ },
+ {
+  "id": "unit01_0013",
+  "word": "logging",
+  "pos": "n.",
+  "tr": "лесозаготовка",
+  "options": [
+   "the natural world",
+   "the cutting down of trees for commercial purposes",
+   "a large number, a collection",
+   "damage to air, water, etc."
+  ],
+  "correct": 1,
+  "group": "Environmental Impacts of Logging"
+ },
+ {
+  "id": "unit01_0014",
+  "word": "myriad",
+  "pos": "adj.",
+  "tr": "несметный",
+  "options": [
+   "living in the water",
+   "many, numerous",
+   "active during the day",
+   "unprotected from the wind"
+  ],
+  "correct": 1,
+  "group": "Environmental Impacts of Logging"
+ },
+ {
+  "id": "unit01_0015",
+  "word": "nutrient",
+  "pos": "n.",
+  "tr": "питательное вещество",
+  "options": [
+   "food",
+   "the edge of something",
+   "the cutting down of trees for commercial purposes",
+   "damage to air, water, etc."
+  ],
+  "correct": 0,
+  "group": "Environmental Impacts of Logging"
+ },
+ {
+  "id": "unit01_0016",
+  "word": "pollution",
+  "pos": "n.",
+  "tr": "загрязнение",
+  "options": [
+   "damage to air, water, etc.",
+   "type; a basic group in biological classification",
+   "one half of the Earth; also, one half of a sphere",
+   "food"
+  ],
+  "correct": 0,
+  "group": "Environmental Impacts of Logging"
+ },
+ {
+  "id": "unit01_0017",
+  "word": "stabilize",
+  "pos": "v.",
+  "tr": "стабилизировать",
+  "options": [
+   "to live in",
+   "to keep from changing, maintain",
+   "to reduce to the least possible amount",
+   "to change to fit a situation or environment"
+  ],
+  "correct": 1,
+  "group": "Environmental Impacts of Logging"
+ },
+ {
+  "id": "unit01_0018",
+  "word": "terrestrial",
+  "pos": "adj.",
+  "tr": "наземный",
+  "options": [
+   "unprotected from the wind",
+   "relating to change from one type to another",
+   "living on the land",
+   "varied, of many kinds"
+  ],
+  "correct": 2,
+  "group": "Environmental Impacts of Logging"
+ },
+ {
+  "id": "unit01_0019",
+  "word": "vanish",
+  "pos": "v.",
+  "tr": "исчезать",
+  "options": [
+   "to develop gradually",
+   "to disappear",
+   "to live under difficult conditions",
+   "to gradually increase over time"
+  ],
+  "correct": 1,
+  "group": "Environmental Impacts of Logging"
+ },
+ {
+  "id": "unit01_0020",
+  "word": "vegetation",
+  "pos": "n.",
+  "tr": "растительность",
+  "options": [
+   "protection",
+   "the natural area where a plant or animal lives",
+   "plants",
+   "type; a basic group in biological classification"
+  ],
+  "correct": 2,
+  "group": "Environmental Impacts of Logging"
+ },
+ {
+  "id": "unit01_0021",
+  "word": "aspect",
+  "pos": "n.",
+  "tr": "аспект",
+  "options": [
+   "the removal of all trees from a large area",
+   "a sudden or big change",
+   "food",
+   "a part or feature"
+  ],
+  "correct": 3,
+  "group": "Bird Migration"
+ },
+ {
+  "id": "unit01_0022",
+  "word": "breed",
+  "pos": "v.",
+  "tr": "размножаться",
+  "options": [
+   "to grow well",
+   "to live in",
+   "to keep from changing, maintain",
+   "to reproduce"
+  ],
+  "correct": 3,
+  "group": "Bird Migration"
+ },
+ {
+  "id": "unit01_0023",
+  "word": "diurnal",
+  "pos": "adj.",
+  "tr": "дневной",
+  "options": [
+   "many, numerous",
+   "active at night",
+   "active during the day",
+   "very severe or difficult"
+  ],
+  "correct": 2,
+  "group": "Bird Migration"
+ },
+ {
+  "id": "unit01_0024",
+  "word": "endure",
+  "pos": "v.",
+  "tr": "выдерживать",
+  "options": [
+   "to catch",
+   "to disappear",
+   "to live under difficult conditions",
+   "to keep from changing, maintain"
+  ],
+  "correct": 2,
+  "group": "Bird Migration"
+ },
+ {
+  "id": "unit01_0025",
+  "word": "evolve",
+  "pos": "v.",
+  "tr": "эволюционировать",
+  "options": [
+   "to develop gradually",
+   "to interest greatly",
+   "to make weaker by mixing with water",
+   "to leave the correct route; become separated from the group"
+  ],
+  "correct": 0,
+  "group": "Bird Migration"
+ },
+ {
+  "id": "unit01_0026",
+  "word": "fascinate",
+  "pos": "v.",
+  "tr": "очаровывать",
+  "options": [
+   "to develop gradually",
+   "to interest greatly",
+   "to prevent, slow down",
+   "to be in a place; exist in"
+  ],
+  "correct": 1,
+  "group": "Bird Migration"
+ },
+ {
+  "id": "unit01_0027",
+  "word": "feat",
+  "pos": "n.",
+  "tr": "подвиг",
+  "options": [
+   "a difficult act or achievement",
+   "a strong effect",
+   "damage to air, water, etc.",
+   "one half of the Earth; also, one half of a sphere"
+  ],
+  "correct": 0,
+  "group": "Bird Migration"
+ },
+ {
+  "id": "unit01_0028",
+  "word": "fuel",
+  "pos": "v.",
+  "tr": "подпитывать",
+  "options": [
+   "to live under difficult conditions",
+   "to prevent, slow down",
+   "to grow well",
+   "to provide energy"
+  ],
+  "correct": 3,
+  "group": "Bird Migration"
+ },
+ {
+  "id": "unit01_0029",
+  "word": "hemisphere",
+  "pos": "n.",
+  "tr": "полушарие",
+  "options": [
+   "one half of the Earth; also, one half of a sphere",
+   "plants",
+   "a part or feature",
+   "finding the way from one place to another"
+  ],
+  "correct": 0,
+  "group": "Bird Migration"
+ },
+ {
+  "id": "unit01_0030",
+  "word": "imperative",
+  "pos": "n.",
+  "tr": "насущная необходимость",
+  "options": [
+   "the edge of something",
+   "a part or feature",
+   "food",
+   "a priority; an urgent need"
+  ],
+  "correct": 3,
+  "group": "Bird Migration"
+ },
+ {
+  "id": "unit01_0031",
+  "word": "inhabit",
+  "pos": "v.",
+  "tr": "населять",
+  "options": [
+   "to prevent, slow down",
+   "to provide energy",
+   "to live in",
+   "to gradually increase over time"
+  ],
+  "correct": 2,
+  "group": "Bird Migration"
+ },
+ {
+  "id": "unit01_0032",
+  "word": "migration",
+  "pos": "n.",
+  "tr": "миграция",
+  "options": [
+   "loss of soil from action of water or wind",
+   "type; a basic group in biological classification",
+   "a large number, a collection",
+   "movement from one place to another"
+  ],
+  "correct": 3,
+  "group": "Bird Migration"
+ },
+ {
+  "id": "unit01_0033",
+  "word": "navigation",
+  "pos": "n.",
+  "tr": "навигация",
+  "options": [
+   "a priority; an urgent need",
+   "the cutting down of trees for commercial purposes",
+   "the change from liquid to gas; loss of water to the air",
+   "finding the way from one place to another"
+  ],
+  "correct": 3,
+  "group": "Bird Migration"
+ },
+ {
+  "id": "unit01_0034",
+  "word": "nocturnal",
+  "pos": "adj.",
+  "tr": "ночной",
+  "options": [
+   "many, numerous",
+   "active at night",
+   "best, most favorable",
+   "active during the day"
+  ],
+  "correct": 1,
+  "group": "Bird Migration"
+ },
+ {
+  "id": "unit01_0035",
+  "word": "observer",
+  "pos": "n.",
+  "tr": "наблюдатель",
+  "options": [
+   "a person who watches something",
+   "a priority; an urgent need",
+   "the change from liquid to gas; loss of water to the air",
+   "the natural world"
+  ],
+  "correct": 0,
+  "group": "Bird Migration"
+ },
+ {
+  "id": "unit01_0036",
+  "word": "obscure",
+  "pos": "v.",
+  "tr": "скрывать",
+  "options": [
+   "to make weaker by mixing with water",
+   "to be in a place; exist in",
+   "to leave the correct route; become separated from the group",
+   "to make difficult to see"
+  ],
+  "correct": 3,
+  "group": "Bird Migration"
+ },
+ {
+  "id": "unit01_0037",
+  "word": "optimal",
+  "pos": "adj.",
+  "tr": "оптимальный",
+  "options": [
+   "very severe or difficult",
+   "producing a lot of something",
+   "relating to change from one type to another",
+   "best, most favorable"
+  ],
+  "correct": 3,
+  "group": "Bird Migration"
+ },
+ {
+  "id": "unit01_0038",
+  "word": "species",
+  "pos": "n.",
+  "tr": "вид",
+  "options": [
+   "plants",
+   "a strong effect",
+   "type; a basic group in biological classification",
+   "one half of the Earth; also, one half of a sphere"
+  ],
+  "correct": 2,
+  "group": "Bird Migration"
+ },
+ {
+  "id": "unit01_0039",
+  "word": "stray",
+  "pos": "v.",
+  "tr": "сбиваться с пути",
+  "options": [
+   "to leave the correct route; become separated from the group",
+   "to change to fit a situation or environment",
+   "to grow well",
+   "to live in"
+  ],
+  "correct": 0,
+  "group": "Bird Migration"
+ },
+ {
+  "id": "unit01_0040",
+  "word": "windswept",
+  "pos": "adj.",
+  "tr": "продуваемый ветрами",
+  "options": [
+   "unprotected from the wind",
+   "many, numerous",
+   "best, most favorable",
+   "active at night"
+  ],
+  "correct": 0,
+  "group": "Bird Migration"
+ },
+ {
+  "id": "unit01_0041",
+  "word": "accumulate",
+  "pos": "v.",
+  "tr": "накапливаться",
+  "options": [
+   "to prevent, slow down",
+   "to be in a place; exist in",
+   "to provide energy",
+   "to gradually increase over time"
+  ],
+  "correct": 3,
+  "group": "Plant Life in the Taklimakan Desert"
+ },
+ {
+  "id": "unit01_0042",
+  "word": "adapt",
+  "pos": "v.",
+  "tr": "приспосабливаться",
+  "options": [
+   "to make difficult to see",
+   "to make weaker by mixing with water",
+   "to change to fit a situation or environment",
+   "to interest greatly"
+  ],
+  "correct": 2,
+  "group": "Plant Life in the Taklimakan Desert"
+ },
+ {
+  "id": "unit01_0043",
+  "word": "determine",
+  "pos": "v.",
+  "tr": "определять",
+  "options": [
+   "to be in a place; exist in",
+   "to decide",
+   "to cut down",
+   "to disappear"
+  ],
+  "correct": 1,
+  "group": "Plant Life in the Taklimakan Desert"
+ },
+ {
+  "id": "unit01_0044",
+  "word": "dilute",
+  "pos": "v.",
+  "tr": "разбавлять",
+  "options": [
+   "to prevent, slow down",
+   "to make difficult to see",
+   "to make weaker by mixing with water",
+   "to grow well"
+  ],
+  "correct": 2,
+  "group": "Plant Life in the Taklimakan Desert"
+ },
+ {
+  "id": "unit01_0045",
+  "word": "diverse",
+  "pos": "adj.",
+  "tr": "разнообразный",
+  "options": [
+   "unprotected from the wind",
+   "producing a lot of something",
+   "varied, of many kinds",
+   "living in the water"
+  ],
+  "correct": 2,
+  "group": "Plant Life in the Taklimakan Desert"
+ },
+ {
+  "id": "unit01_0046",
+  "word": "evaporation",
+  "pos": "n.",
+  "tr": "испарение",
+  "options": [
+   "a part or feature",
+   "the change from liquid to gas; loss of water to the air",
+   "the edge of something",
+   "the cutting down of trees for commercial purposes"
+  ],
+  "correct": 1,
+  "group": "Plant Life in the Taklimakan Desert"
+ },
+ {
+  "id": "unit01_0047",
+  "word": "extreme",
+  "pos": "adj.",
+  "tr": "экстремальный",
+  "options": [
+   "best, most favorable",
+   "small in numbers or amount",
+   "very severe or difficult",
+   "active during the day"
+  ],
+  "correct": 2,
+  "group": "Plant Life in the Taklimakan Desert"
+ },
+ {
+  "id": "unit01_0048",
+  "word": "fringe",
+  "pos": "n.",
+  "tr": "окраина",
+  "options": [
+   "wetness or water",
+   "the edge of something",
+   "a large number, a collection",
+   "a difficult act or achievement"
+  ],
+  "correct": 1,
+  "group": "Plant Life in the Taklimakan Desert"
+ },
+ {
+  "id": "unit01_0049",
+  "word": "mechanism",
+  "pos": "n.",
+  "tr": "механизм",
+  "options": [
+   "wetness or water",
+   "a large number, a collection",
+   "behavior to deal with difficult situations",
+   "something that causes great difficulties"
+  ],
+  "correct": 2,
+  "group": "Plant Life in the Taklimakan Desert"
+ },
+ {
+  "id": "unit01_0050",
+  "word": "minimize",
+  "pos": "v.",
+  "tr": "минимизировать",
+  "options": [
+   "to keep from changing, maintain",
+   "to change to fit a situation or environment",
+   "to reduce to the least possible amount",
+   "to interest greatly"
+  ],
+  "correct": 2,
+  "group": "Plant Life in the Taklimakan Desert"
+ },
+ {
+  "id": "unit01_0051",
+  "word": "moisture",
+  "pos": "n.",
+  "tr": "влага",
+  "options": [
+   "wetness or water",
+   "finding the way from one place to another",
+   "a person who watches something",
+   "something that causes great difficulties"
+  ],
+  "correct": 0,
+  "group": "Plant Life in the Taklimakan Desert"
+ },
+ {
+  "id": "unit01_0052",
+  "word": "occupy",
+  "pos": "v.",
+  "tr": "занимать",
+  "options": [
+   "to leave the correct route; become separated from the group",
+   "to gradually increase over time",
+   "to be in a place; exist in",
+   "to live in"
+  ],
+  "correct": 2,
+  "group": "Plant Life in the Taklimakan Desert"
+ },
+ {
+  "id": "unit01_0053",
+  "word": "prolific",
+  "pos": "adj.",
+  "tr": "плодовитый",
+  "options": [
+   "producing a lot of something",
+   "relating to change from one type to another",
+   "active at night",
+   "active during the day"
+  ],
+  "correct": 0,
+  "group": "Plant Life in the Taklimakan Desert"
+ },
+ {
+  "id": "unit01_0054",
+  "word": "resilient",
+  "pos": "adj.",
+  "tr": "устойчивый",
+  "options": [
+   "strong; sudden and destructive",
+   "living in the water",
+   "relating to change from one type to another",
+   "tough, able to endure difficult conditions"
+  ],
+  "correct": 3,
+  "group": "Plant Life in the Taklimakan Desert"
+ },
+ {
+  "id": "unit01_0055",
+  "word": "sparse",
+  "pos": "adj.",
+  "tr": "редкий",
+  "options": [
+   "small in numbers or amount",
+   "active at night",
+   "producing a lot of something",
+   "varied, of many kinds"
+  ],
+  "correct": 0,
+  "group": "Plant Life in the Taklimakan Desert"
+ },
+ {
+  "id": "unit01_0056",
+  "word": "stressor",
+  "pos": "n.",
+  "tr": "стресс-фактор",
+  "options": [
+   "something that causes great difficulties",
+   "food",
+   "behavior to deal with difficult situations",
+   "damage to air, water, etc."
+  ],
+  "correct": 0,
+  "group": "Plant Life in the Taklimakan Desert"
+ },
+ {
+  "id": "unit01_0057",
+  "word": "swing",
+  "pos": "n.",
+  "tr": "резкий перепад",
+  "options": [
+   "the cutting down of trees for commercial purposes",
+   "movement from one place to another",
+   "a sudden or big change",
+   "a large number, a collection"
+  ],
+  "correct": 2,
+  "group": "Plant Life in the Taklimakan Desert"
+ },
+ {
+  "id": "unit01_0058",
+  "word": "thrive",
+  "pos": "v.",
+  "tr": "процветать",
+  "options": [
+   "to grow well",
+   "to provide energy",
+   "to disappear",
+   "to prevent, slow down"
+  ],
+  "correct": 0,
+  "group": "Plant Life in the Taklimakan Desert"
+ },
+ {
+  "id": "unit01_0059",
+  "word": "transitional",
+  "pos": "adj.",
+  "tr": "переходный",
+  "options": [
+   "unprotected from the wind",
+   "small in numbers or amount",
+   "best, most favorable",
+   "relating to change from one type to another"
+  ],
+  "correct": 3,
+  "group": "Plant Life in the Taklimakan Desert"
+ },
+ {
+  "id": "unit01_0060",
+  "word": "violent",
+  "pos": "adj.",
+  "tr": "бурный",
+  "options": [
+   "active at night",
+   "producing a lot of something",
+   "strong; sudden and destructive",
+   "active during the day"
+  ],
+  "correct": 2,
+  "group": "Plant Life in the Taklimakan Desert"
+ }
+]
