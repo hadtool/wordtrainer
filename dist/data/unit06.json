@@ -1,0 +1,842 @@
+[
+ {
+  "id": "unit06_0001",
+  "word": "accessible",
+  "pos": "adj.",
+  "tr": "доступный",
+  "options": [
+   "far away",
+   "with living accommodations, related to housing",
+   "wonderful to see",
+   "reachable, easy to get"
+  ],
+  "correct": 3,
+  "group": "Hiking the Inca Trail"
+ },
+ {
+  "id": "unit06_0002",
+  "word": "adventurous",
+  "pos": "adj.",
+  "tr": "авантюрный",
+  "options": [
+   "daring, willing to try new or dangerous activities",
+   "continuing",
+   "far away",
+   "related to traditional or formal practices"
+  ],
+  "correct": 0,
+  "group": "Hiking the Inca Trail"
+ },
+ {
+  "id": "unit06_0003",
+  "word": "archeologist",
+  "pos": "n.",
+  "tr": "археолог",
+  "options": [
+   "advantage, good part",
+   "a wonderful thing",
+   "collection and treatment of trash for reuse",
+   "a person who studies ancient cultures"
+  ],
+  "correct": 3,
+  "group": "Hiking the Inca Trail"
+ },
+ {
+  "id": "unit06_0004",
+  "word": "ceremonial",
+  "pos": "adj.",
+  "tr": "церемониальный",
+  "options": [
+   "reachable, easy to get",
+   "far away",
+   "related to traditional or formal practices",
+   "inexpensive"
+  ],
+  "correct": 2,
+  "group": "Hiking the Inca Trail"
+ },
+ {
+  "id": "unit06_0005",
+  "word": "construct",
+  "pos": "v.",
+  "tr": "строить",
+  "options": [
+   "to hurt",
+   "to organize and be responsible for",
+   "to build",
+   "to be related to something"
+  ],
+  "correct": 2,
+  "group": "Hiking the Inca Trail"
+ },
+ {
+  "id": "unit06_0006",
+  "word": "draw",
+  "pos": "v.",
+  "tr": "привлекать",
+  "options": [
+   "to build",
+   "to work for no pay; freely offer to do something",
+   "to attract, pull",
+   "to protect, save"
+  ],
+  "correct": 2,
+  "group": "Hiking the Inca Trail"
+ },
+ {
+  "id": "unit06_0007",
+  "word": "imagination",
+  "pos": "n.",
+  "tr": "воображение",
+  "options": [
+   "rule, basic idea behind a system",
+   "something that blocks or separates",
+   "activity with a specific purpose, effort",
+   "the ability to think creatively, form pictures in the mind"
+  ],
+  "correct": 3,
+  "group": "Hiking the Inca Trail"
+ },
+ {
+  "id": "unit06_0008",
+  "word": "institute",
+  "pos": "v.",
+  "tr": "вводить",
+  "options": [
+   "to work very hard to do something",
+   "to start, put in place",
+   "to work for no pay; freely offer to do something",
+   "to sharpen, improve"
+  ],
+  "correct": 1,
+  "group": "Hiking the Inca Trail"
+ },
+ {
+  "id": "unit06_0009",
+  "word": "luxury",
+  "pos": "n.",
+  "tr": "роскошь",
+  "options": [
+   "collection and treatment of trash for reuse",
+   "a group of things that have something in common",
+   "natural region away from towns and cities",
+   "something expensive and desirable but unnecessary"
+  ],
+  "correct": 3,
+  "group": "Hiking the Inca Trail"
+ },
+ {
+  "id": "unit06_0010",
+  "word": "marvel",
+  "pos": "n.",
+  "tr": "чудо",
+  "options": [
+   "rule, basic idea behind a system",
+   "a wonderful thing",
+   "activity with a specific purpose, effort",
+   "guilty party, origin of a problem"
+  ],
+  "correct": 1,
+  "group": "Hiking the Inca Trail"
+ },
+ {
+  "id": "unit06_0011",
+  "word": "mystery",
+  "pos": "n.",
+  "tr": "тайна",
+  "options": [
+   "something strange, unknown, or difficult to understand",
+   "subject matter",
+   "official limit on something",
+   "the ability to think creatively, form pictures in the mind"
+  ],
+  "correct": 0,
+  "group": "Hiking the Inca Trail"
+ },
+ {
+  "id": "unit06_0012",
+  "word": "native",
+  "pos": "adj.",
+  "tr": "коренной",
+  "options": [
+   "wide or large",
+   "continuing",
+   "expensive",
+   "original to a place"
+  ],
+  "correct": 3,
+  "group": "Hiking the Inca Trail"
+ },
+ {
+  "id": "unit06_0013",
+  "word": "network",
+  "pos": "n.",
+  "tr": "сеть",
+  "options": [
+   "a system of various parts that work together",
+   "activity with a specific purpose, effort",
+   "a wonderful thing",
+   "something that blocks or separates"
+  ],
+  "correct": 0,
+  "group": "Hiking the Inca Trail"
+ },
+ {
+  "id": "unit06_0014",
+  "word": "pertain",
+  "pos": "v.",
+  "tr": "относиться",
+  "options": [
+   "to be related to something",
+   "to organize and be responsible for",
+   "to build",
+   "to sharpen, improve"
+  ],
+  "correct": 0,
+  "group": "Hiking the Inca Trail"
+ },
+ {
+  "id": "unit06_0015",
+  "word": "precisely",
+  "pos": "adv.",
+  "tr": "точно",
+  "options": [
+   "expensive",
+   "rule, basic idea behind a system",
+   "exactly",
+   "a person who studies ancient cultures"
+  ],
+  "correct": 2,
+  "group": "Hiking the Inca Trail"
+ },
+ {
+  "id": "unit06_0016",
+  "word": "preserve",
+  "pos": "v.",
+  "tr": "сохранять",
+  "options": [
+   "to attract, pull",
+   "to sharpen, improve",
+   "to protect, save",
+   "to sign up for a class"
+  ],
+  "correct": 2,
+  "group": "Hiking the Inca Trail"
+ },
+ {
+  "id": "unit06_0017",
+  "word": "restriction",
+  "pos": "n.",
+  "tr": "ограничение",
+  "options": [
+   "idea",
+   "advantage, good part",
+   "a custom, method",
+   "official limit on something"
+  ],
+  "correct": 3,
+  "group": "Hiking the Inca Trail"
+ },
+ {
+  "id": "unit06_0018",
+  "word": "site",
+  "pos": "n.",
+  "tr": "место",
+  "options": [
+   "something expensive and desirable but unnecessary",
+   "place",
+   "rule, basic idea behind a system",
+   "the place somebody or something is going to"
+  ],
+  "correct": 1,
+  "group": "Hiking the Inca Trail"
+ },
+ {
+  "id": "unit06_0019",
+  "word": "spectacular",
+  "pos": "adj.",
+  "tr": "захватывающий",
+  "options": [
+   "wide or large",
+   "continuing",
+   "not completely trusting",
+   "wonderful to see"
+  ],
+  "correct": 3,
+  "group": "Hiking the Inca Trail"
+ },
+ {
+  "id": "unit06_0020",
+  "word": "upside",
+  "pos": "n.",
+  "tr": "плюс",
+  "options": [
+   "advantage, good part",
+   "direction, assistance",
+   "a custom, method",
+   "the ability to think creatively, form pictures in the mind"
+  ],
+  "correct": 0,
+  "group": "Hiking the Inca Trail"
+ },
+ {
+  "id": "unit06_0021",
+  "word": "accommodations",
+  "pos": "n.",
+  "tr": "жильё",
+  "options": [
+   "preference",
+   "activity that makes something known to the public",
+   "a vacation place",
+   "a place to stay such as a hotel"
+  ],
+  "correct": 3,
+  "group": "What Is Ecotourism?"
+ },
+ {
+  "id": "unit06_0022",
+  "word": "avoid",
+  "pos": "v.",
+  "tr": "избегать",
+  "options": [
+   "to work for no pay; freely offer to do something",
+   "to get rid of garbage and trash",
+   "to prevent from happening; stay away from",
+   "to start, put in place"
+  ],
+  "correct": 2,
+  "group": "What Is Ecotourism?"
+ },
+ {
+  "id": "unit06_0023",
+  "word": "barrier",
+  "pos": "n.",
+  "tr": "барьер",
+  "options": [
+   "enjoyment",
+   "something that blocks or separates",
+   "a group of things that have something in common",
+   "a vacation place"
+  ],
+  "correct": 1,
+  "group": "What Is Ecotourism?"
+ },
+ {
+  "id": "unit06_0024",
+  "word": "category",
+  "pos": "n.",
+  "tr": "категория",
+  "options": [
+   "a system of various parts that work together",
+   "natural region away from towns and cities",
+   "a group of things that have something in common",
+   "something expensive and desirable but unnecessary"
+  ],
+  "correct": 2,
+  "group": "What Is Ecotourism?"
+ },
+ {
+  "id": "unit06_0025",
+  "word": "concept",
+  "pos": "n.",
+  "tr": "понятие",
+  "options": [
+   "official limit on something",
+   "idea",
+   "a person who studies ancient cultures",
+   "activity with a specific purpose, effort"
+  ],
+  "correct": 1,
+  "group": "What Is Ecotourism?"
+ },
+ {
+  "id": "unit06_0026",
+  "word": "culprit",
+  "pos": "n.",
+  "tr": "виновник",
+  "options": [
+   "a vacation place",
+   "light wind",
+   "direction, assistance",
+   "guilty party, origin of a problem"
+  ],
+  "correct": 3,
+  "group": "What Is Ecotourism?"
+ },
+ {
+  "id": "unit06_0027",
+  "word": "delicate",
+  "pos": "adj.",
+  "tr": "хрупкий",
+  "options": [
+   "far away",
+   "not completely trusting",
+   "easily hurt or broken",
+   "with living accommodations, related to housing"
+  ],
+  "correct": 2,
+  "group": "What Is Ecotourism?"
+ },
+ {
+  "id": "unit06_0028",
+  "word": "destination",
+  "pos": "n.",
+  "tr": "пункт назначения",
+  "options": [
+   "the place somebody or something is going to",
+   "enjoyment",
+   "natural region away from towns and cities",
+   "a wonderful thing"
+  ],
+  "correct": 0,
+  "group": "What Is Ecotourism?"
+ },
+ {
+  "id": "unit06_0029",
+  "word": "dump",
+  "pos": "v.",
+  "tr": "сбрасывать",
+  "options": [
+   "to get rid of garbage and trash",
+   "to learn something or get something",
+   "to build",
+   "to work for no pay; freely offer to do something"
+  ],
+  "correct": 0,
+  "group": "What Is Ecotourism?"
+ },
+ {
+  "id": "unit06_0030",
+  "word": "injure",
+  "pos": "v.",
+  "tr": "ранить",
+  "options": [
+   "to work very hard to do something",
+   "to prevent from happening; stay away from",
+   "to hurt",
+   "to get rid of garbage and trash"
+  ],
+  "correct": 2,
+  "group": "What Is Ecotourism?"
+ },
+ {
+  "id": "unit06_0031",
+  "word": "pleasure",
+  "pos": "n.",
+  "tr": "удовольствие",
+  "options": [
+   "an item in a recipe",
+   "enjoyment",
+   "collection and treatment of trash for reuse",
+   "something strange, unknown, or difficult to understand"
+  ],
+  "correct": 1,
+  "group": "What Is Ecotourism?"
+ },
+ {
+  "id": "unit06_0032",
+  "word": "practice",
+  "pos": "n.",
+  "tr": "практика",
+  "options": [
+   "direction, assistance",
+   "the ability to think creatively, form pictures in the mind",
+   "a custom, method",
+   "a plan for spending money"
+  ],
+  "correct": 2,
+  "group": "What Is Ecotourism?"
+ },
+ {
+  "id": "unit06_0033",
+  "word": "principle",
+  "pos": "n.",
+  "tr": "принцип",
+  "options": [
+   "style of cooking",
+   "light wind",
+   "something that blocks or separates",
+   "rule, basic idea behind a system"
+  ],
+  "correct": 3,
+  "group": "What Is Ecotourism?"
+ },
+ {
+  "id": "unit06_0034",
+  "word": "publicity",
+  "pos": "n.",
+  "tr": "реклама",
+  "options": [
+   "activity that makes something known to the public",
+   "the ability to think creatively, form pictures in the mind",
+   "a place to stay such as a hotel",
+   "the place somebody or something is going to"
+  ],
+  "correct": 0,
+  "group": "What Is Ecotourism?"
+ },
+ {
+  "id": "unit06_0035",
+  "word": "recycling",
+  "pos": "n.",
+  "tr": "переработка",
+  "options": [
+   "collection and treatment of trash for reuse",
+   "natural region away from towns and cities",
+   "idea",
+   "place"
+  ],
+  "correct": 0,
+  "group": "What Is Ecotourism?"
+ },
+ {
+  "id": "unit06_0036",
+  "word": "remote",
+  "pos": "adj.",
+  "tr": "отдалённый",
+  "options": [
+   "far away",
+   "related to traditional or formal practices",
+   "expensive",
+   "inexpensive"
+  ],
+  "correct": 0,
+  "group": "What Is Ecotourism?"
+ },
+ {
+  "id": "unit06_0037",
+  "word": "strive",
+  "pos": "v.",
+  "tr": "стремиться",
+  "options": [
+   "to get rid of garbage and trash",
+   "to hurt",
+   "to work very hard to do something",
+   "to prevent from happening; stay away from"
+  ],
+  "correct": 2,
+  "group": "What Is Ecotourism?"
+ },
+ {
+  "id": "unit06_0038",
+  "word": "volunteer",
+  "pos": "v.",
+  "tr": "вызываться добровольцем",
+  "options": [
+   "to work for no pay; freely offer to do something",
+   "to work very hard to do something",
+   "to protect, save",
+   "to attract, pull"
+  ],
+  "correct": 0,
+  "group": "What Is Ecotourism?"
+ },
+ {
+  "id": "unit06_0039",
+  "word": "wary",
+  "pos": "adj.",
+  "tr": "осторожный",
+  "options": [
+   "daring, willing to try new or dangerous activities",
+   "reachable, easy to get",
+   "far away",
+   "not completely trusting"
+  ],
+  "correct": 3,
+  "group": "What Is Ecotourism?"
+ },
+ {
+  "id": "unit06_0040",
+  "word": "wilderness",
+  "pos": "n.",
+  "tr": "дикая местность",
+  "options": [
+   "a study of opinions in a sample of the population",
+   "natural region away from towns and cities",
+   "something expensive and desirable but unnecessary",
+   "an item in a recipe"
+  ],
+  "correct": 1,
+  "group": "What Is Ecotourism?"
+ },
+ {
+  "id": "unit06_0041",
+  "word": "acquire",
+  "pos": "v.",
+  "tr": "приобретать",
+  "options": [
+   "to learn something or get something",
+   "to start, put in place",
+   "to get rid of garbage and trash",
+   "to protect, save"
+  ],
+  "correct": 0,
+  "group": "Learning Vacations"
+ },
+ {
+  "id": "unit06_0042",
+  "word": "breeze",
+  "pos": "n.",
+  "tr": "бриз",
+  "options": [
+   "light wind",
+   "something expensive and desirable but unnecessary",
+   "direction, assistance",
+   "a vacation place"
+  ],
+  "correct": 0,
+  "group": "Learning Vacations"
+ },
+ {
+  "id": "unit06_0043",
+  "word": "broad",
+  "pos": "adj.",
+  "tr": "широкий",
+  "options": [
+   "continuing",
+   "reachable, easy to get",
+   "wide or large",
+   "interesting and unusual"
+  ],
+  "correct": 2,
+  "group": "Learning Vacations"
+ },
+ {
+  "id": "unit06_0044",
+  "word": "budget",
+  "pos": "n.",
+  "tr": "бюджет",
+  "options": [
+   "something strange, unknown, or difficult to understand",
+   "a place to stay such as a hotel",
+   "subject matter",
+   "a plan for spending money"
+  ],
+  "correct": 3,
+  "group": "Learning Vacations"
+ },
+ {
+  "id": "unit06_0045",
+  "word": "colorful",
+  "pos": "adj.",
+  "tr": "яркий",
+  "options": [
+   "wonderful to see",
+   "daring, willing to try new or dangerous activities",
+   "related to traditional or formal practices",
+   "interesting and unusual"
+  ],
+  "correct": 3,
+  "group": "Learning Vacations"
+ },
+ {
+  "id": "unit06_0046",
+  "word": "content",
+  "pos": "n.",
+  "tr": "содержание",
+  "options": [
+   "a group of things that have something in common",
+   "idea",
+   "subject matter",
+   "place"
+  ],
+  "correct": 2,
+  "group": "Learning Vacations"
+ },
+ {
+  "id": "unit06_0047",
+  "word": "costly",
+  "pos": "adj.",
+  "tr": "дорогой",
+  "options": [
+   "daring, willing to try new or dangerous activities",
+   "expensive",
+   "not completely trusting",
+   "easily hurt or broken"
+  ],
+  "correct": 1,
+  "group": "Learning Vacations"
+ },
+ {
+  "id": "unit06_0048",
+  "word": "cuisine",
+  "pos": "n.",
+  "tr": "кухня",
+  "options": [
+   "style of cooking",
+   "an item in a recipe",
+   "the ability to think creatively, form pictures in the mind",
+   "idea"
+  ],
+  "correct": 0,
+  "group": "Learning Vacations"
+ },
+ {
+  "id": "unit06_0049",
+  "word": "economical",
+  "pos": "adj.",
+  "tr": "экономичный",
+  "options": [
+   "interesting and unusual",
+   "not completely trusting",
+   "expensive",
+   "inexpensive"
+  ],
+  "correct": 3,
+  "group": "Learning Vacations"
+ },
+ {
+  "id": "unit06_0050",
+  "word": "endeavor",
+  "pos": "n.",
+  "tr": "начинание",
+  "options": [
+   "something strange, unknown, or difficult to understand",
+   "a vacation place",
+   "an item in a recipe",
+   "activity with a specific purpose, effort"
+  ],
+  "correct": 3,
+  "group": "Learning Vacations"
+ },
+ {
+  "id": "unit06_0051",
+  "word": "enroll",
+  "pos": "v.",
+  "tr": "записываться",
+  "options": [
+   "to attract, pull",
+   "to organize and be responsible for",
+   "to sharpen, improve",
+   "to sign up for a class"
+  ],
+  "correct": 3,
+  "group": "Learning Vacations"
+ },
+ {
+  "id": "unit06_0052",
+  "word": "hone",
+  "pos": "v.",
+  "tr": "оттачивать",
+  "options": [
+   "to prevent from happening; stay away from",
+   "to get rid of garbage and trash",
+   "to sharpen, improve",
+   "to hurt"
+  ],
+  "correct": 2,
+  "group": "Learning Vacations"
+ },
+ {
+  "id": "unit06_0053",
+  "word": "ingredient",
+  "pos": "n.",
+  "tr": "ингредиент",
+  "options": [
+   "natural region away from towns and cities",
+   "enjoyment",
+   "an item in a recipe",
+   "something strange, unknown, or difficult to understand"
+  ],
+  "correct": 2,
+  "group": "Learning Vacations"
+ },
+ {
+  "id": "unit06_0054",
+  "word": "ongoing",
+  "pos": "adj.",
+  "tr": "продолжающийся",
+  "options": [
+   "with living accommodations, related to housing",
+   "continuing",
+   "wide or large",
+   "inexpensive"
+  ],
+  "correct": 1,
+  "group": "Learning Vacations"
+ },
+ {
+  "id": "unit06_0055",
+  "word": "residential",
+  "pos": "adj.",
+  "tr": "с проживанием",
+  "options": [
+   "wide or large",
+   "with living accommodations, related to housing",
+   "daring, willing to try new or dangerous activities",
+   "inexpensive"
+  ],
+  "correct": 1,
+  "group": "Learning Vacations"
+ },
+ {
+  "id": "unit06_0056",
+  "word": "resort",
+  "pos": "n.",
+  "tr": "курорт",
+  "options": [
+   "the ability to think creatively, form pictures in the mind",
+   "a study of opinions in a sample of the population",
+   "place",
+   "a vacation place"
+  ],
+  "correct": 3,
+  "group": "Learning Vacations"
+ },
+ {
+  "id": "unit06_0057",
+  "word": "sponsor",
+  "pos": "v.",
+  "tr": "спонсировать",
+  "options": [
+   "to organize and be responsible for",
+   "to work very hard to do something",
+   "to sign up for a class",
+   "to build"
+  ],
+  "correct": 0,
+  "group": "Learning Vacations"
+ },
+ {
+  "id": "unit06_0058",
+  "word": "supervision",
+  "pos": "n.",
+  "tr": "руководство",
+  "options": [
+   "rule, basic idea behind a system",
+   "the ability to think creatively, form pictures in the mind",
+   "direction, assistance",
+   "style of cooking"
+  ],
+  "correct": 2,
+  "group": "Learning Vacations"
+ },
+ {
+  "id": "unit06_0059",
+  "word": "survey",
+  "pos": "n.",
+  "tr": "опрос",
+  "options": [
+   "a plan for spending money",
+   "a study of opinions in a sample of the population",
+   "style of cooking",
+   "the place somebody or something is going to"
+  ],
+  "correct": 1,
+  "group": "Learning Vacations"
+ },
+ {
+  "id": "unit06_0060",
+  "word": "taste",
+  "pos": "n.",
+  "tr": "вкус",
+  "options": [
+   "preference",
+   "idea",
+   "style of cooking",
+   "natural region away from towns and cities"
+  ],
+  "correct": 0,
+  "group": "Learning Vacations"
+ }
+]

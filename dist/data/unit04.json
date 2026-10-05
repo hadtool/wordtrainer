@@ -1,0 +1,842 @@
+[
+ {
+  "id": "unit04_0001",
+  "word": "adopt",
+  "pos": "v.",
+  "tr": "принимать",
+  "options": [
+   "to bring back to life",
+   "to accept or start to use something new",
+   "to give credit for or see as the origin of something",
+   "to result in, end with"
+  ],
+  "correct": 1,
+  "group": "Origins of Writing"
+ },
+ {
+  "id": "unit04_0002",
+  "word": "agricultural",
+  "pos": "adj.",
+  "tr": "сельскохозяйственный",
+  "options": [
+   "having a lot of energy",
+   "related to flowers",
+   "related to farming",
+   "not concrete, related to ideas or feelings"
+  ],
+  "correct": 2,
+  "group": "Origins of Writing"
+ },
+ {
+  "id": "unit04_0003",
+  "word": "attribute",
+  "pos": "v.",
+  "tr": "приписывать",
+  "options": [
+   "to move back and forth",
+   "to give credit for or see as the origin of something",
+   "to represent, act out",
+   "to mark a surface with words or letters"
+  ],
+  "correct": 1,
+  "group": "Origins of Writing"
+ },
+ {
+  "id": "unit04_0004",
+  "word": "carve",
+  "pos": "v.",
+  "tr": "вырезать",
+  "options": [
+   "to represent, act out",
+   "to result in, end with",
+   "to cut and shape hard material",
+   "to combine"
+  ],
+  "correct": 2,
+  "group": "Origins of Writing"
+ },
+ {
+  "id": "unit04_0005",
+  "word": "civilization",
+  "pos": "n.",
+  "tr": "цивилизация",
+  "options": [
+   "an area of digging, especially to find objects from past cultures",
+   "something that is built, such as a building or bridge",
+   "the period of time that a king or queen is in power",
+   "human society, its organization and culture"
+  ],
+  "correct": 3,
+  "group": "Origins of Writing"
+ },
+ {
+  "id": "unit04_0006",
+  "word": "creator",
+  "pos": "n.",
+  "tr": "создатель",
+  "options": [
+   "appearance of being real, false impression",
+   "person who has a lot of knowledge about a particular subject",
+   "the first maker of something",
+   "an act, especially a good or bad one"
+  ],
+  "correct": 2,
+  "group": "Origins of Writing"
+ },
+ {
+  "id": "unit04_0007",
+  "word": "deed",
+  "pos": "n.",
+  "tr": "деяние",
+  "options": [
+   "a decorative rope of flowers or leaves",
+   "an act, especially a good or bad one",
+   "an area of digging, especially to find objects from past cultures",
+   "a mental picture"
+  ],
+  "correct": 1,
+  "group": "Origins of Writing"
+ },
+ {
+  "id": "unit04_0008",
+  "word": "encompass",
+  "pos": "v.",
+  "tr": "охватывать",
+  "options": [
+   "to include",
+   "to bring back to life",
+   "to accept or start to use something new",
+   "to establish a permanent place to live"
+  ],
+  "correct": 0,
+  "group": "Origins of Writing"
+ },
+ {
+  "id": "unit04_0009",
+  "word": "excavation",
+  "pos": "n.",
+  "tr": "раскопки",
+  "options": [
+   "a thin, flat piece of material to write on",
+   "the first maker of something",
+   "set of traditional stories used to explain the origins of things",
+   "an area of digging, especially to find objects from past cultures"
+  ],
+  "correct": 3,
+  "group": "Origins of Writing"
+ },
+ {
+  "id": "unit04_0010",
+  "word": "function",
+  "pos": "v.",
+  "tr": "функционировать",
+  "options": [
+   "to establish a permanent place to live",
+   "to represent, act out",
+   "to improve, perfect",
+   "to perform well"
+  ],
+  "correct": 3,
+  "group": "Origins of Writing"
+ },
+ {
+  "id": "unit04_0011",
+  "word": "inscribe",
+  "pos": "v.",
+  "tr": "надписывать",
+  "options": [
+   "to mark a surface with words or letters",
+   "to try to stop or prevent something",
+   "to establish a permanent place to live",
+   "to accept or start to use something new"
+  ],
+  "correct": 0,
+  "group": "Origins of Writing"
+ },
+ {
+  "id": "unit04_0012",
+  "word": "literacy",
+  "pos": "n.",
+  "tr": "грамотность",
+  "options": [
+   "a decorative rope of flowers or leaves",
+   "the period of time that a king or queen is in power",
+   "a fixed idea people have, especially one that is wrong",
+   "the ability to read and write"
+  ],
+  "correct": 3,
+  "group": "Origins of Writing"
+ },
+ {
+  "id": "unit04_0013",
+  "word": "mythology",
+  "pos": "n.",
+  "tr": "мифология",
+  "options": [
+   "appearance of being real, false impression",
+   "the use, advantage of",
+   "set of traditional stories used to explain the origins of things",
+   "human society, its organization and culture"
+  ],
+  "correct": 2,
+  "group": "Origins of Writing"
+ },
+ {
+  "id": "unit04_0014",
+  "word": "property",
+  "pos": "n.",
+  "tr": "собственность",
+  "options": [
+   "the use, advantage of",
+   "a thin, flat piece of material to write on",
+   "the period of time that a king or queen is in power",
+   "something that is owned"
+  ],
+  "correct": 3,
+  "group": "Origins of Writing"
+ },
+ {
+  "id": "unit04_0015",
+  "word": "scholar",
+  "pos": "n.",
+  "tr": "учёный",
+  "options": [
+   "an object used by actors",
+   "a social event to mark a special day or occasion",
+   "something that is owned",
+   "person who has a lot of knowledge about a particular subject"
+  ],
+  "correct": 3,
+  "group": "Origins of Writing"
+ },
+ {
+  "id": "unit04_0016",
+  "word": "settle",
+  "pos": "v.",
+  "tr": "поселяться",
+  "options": [
+   "to establish a permanent place to live",
+   "to represent, act out",
+   "to give credit for or see as the origin of something",
+   "to mark a surface with words or letters"
+  ],
+  "correct": 0,
+  "group": "Origins of Writing"
+ },
+ {
+  "id": "unit04_0017",
+  "word": "specialized",
+  "pos": "adj.",
+  "tr": "специализированный",
+  "options": [
+   "made to seem more or bigger",
+   "relating to a particular area or type of work",
+   "having beauty of movement",
+   "related to farming"
+  ],
+  "correct": 1,
+  "group": "Origins of Writing"
+ },
+ {
+  "id": "unit04_0018",
+  "word": "structure",
+  "pos": "n.",
+  "tr": "сооружение",
+  "options": [
+   "something that is built, such as a building or bridge",
+   "a set of actions used as part of a ceremony",
+   "a decorative rope of flowers or leaves",
+   "set of traditional stories used to explain the origins of things"
+  ],
+  "correct": 0,
+  "group": "Origins of Writing"
+ },
+ {
+  "id": "unit04_0019",
+  "word": "tablet",
+  "pos": "n.",
+  "tr": "табличка",
+  "options": [
+   "person who has a lot of knowledge about a particular subject",
+   "something that is built, such as a building or bridge",
+   "a thin, flat piece of material to write on",
+   "set of traditional stories used to explain the origins of things"
+  ],
+  "correct": 2,
+  "group": "Origins of Writing"
+ },
+ {
+  "id": "unit04_0020",
+  "word": "token",
+  "pos": "n.",
+  "tr": "жетон",
+  "options": [
+   "person who has a lot of knowledge about a particular subject",
+   "something that is built, such as a building or bridge",
+   "signs, proof something is or is not true",
+   "an object used to represent something else"
+  ],
+  "correct": 3,
+  "group": "Origins of Writing"
+ },
+ {
+  "id": "unit04_0021",
+  "word": "accompany",
+  "pos": "v.",
+  "tr": "сопровождать",
+  "options": [
+   "to move back and forth",
+   "to go with, happen at the same time",
+   "to mark a surface with words or letters",
+   "to bring to mind"
+  ],
+  "correct": 1,
+  "group": "Hula Dancing in Hawaiian Culture"
+ },
+ {
+  "id": "unit04_0022",
+  "word": "altar",
+  "pos": "n.",
+  "tr": "алтарь",
+  "options": [
+   "something that is built, such as a building or bridge",
+   "a table or similar structure for religious ceremonies",
+   "a movement to express a feeling or idea",
+   "signs, proof something is or is not true"
+  ],
+  "correct": 1,
+  "group": "Hula Dancing in Hawaiian Culture"
+ },
+ {
+  "id": "unit04_0023",
+  "word": "benefit",
+  "pos": "n.",
+  "tr": "польза",
+  "options": [
+   "the use, advantage of",
+   "difficulty, opposition",
+   "the ability to read and write",
+   "a set of actions used as part of a ceremony"
+  ],
+  "correct": 0,
+  "group": "Hula Dancing in Hawaiian Culture"
+ },
+ {
+  "id": "unit04_0024",
+  "word": "celebration",
+  "pos": "n.",
+  "tr": "празднование",
+  "options": [
+   "a custom or belief of a group of people",
+   "the feeling of a place",
+   "the first maker of something",
+   "a social event to mark a special day or occasion"
+  ],
+  "correct": 3,
+  "group": "Hula Dancing in Hawaiian Culture"
+ },
+ {
+  "id": "unit04_0025",
+  "word": "discourage",
+  "pos": "v.",
+  "tr": "препятствовать",
+  "options": [
+   "to bring to mind",
+   "to give credit for or see as the origin of something",
+   "to try to stop or prevent something",
+   "to improve, perfect"
+  ],
+  "correct": 2,
+  "group": "Hula Dancing in Hawaiian Culture"
+ },
+ {
+  "id": "unit04_0026",
+  "word": "elaborate",
+  "pos": "adj.",
+  "tr": "изощрённый",
+  "options": [
+   "similar to, reminding of something",
+   "related to farming",
+   "having a lot of energy",
+   "having a lot of detail and decoration"
+  ],
+  "correct": 3,
+  "group": "Hula Dancing in Hawaiian Culture"
+ },
+ {
+  "id": "unit04_0027",
+  "word": "energetic",
+  "pos": "adj.",
+  "tr": "энергичный",
+  "options": [
+   "having a lot of energy",
+   "made to seem more or bigger",
+   "funny, entertaining",
+   "having beauty of movement"
+  ],
+  "correct": 0,
+  "group": "Hula Dancing in Hawaiian Culture"
+ },
+ {
+  "id": "unit04_0028",
+  "word": "evidence",
+  "pos": "n.",
+  "tr": "доказательство",
+  "options": [
+   "signs, proof something is or is not true",
+   "the period of time that a king or queen is in power",
+   "the use, advantage of",
+   "the ability to read and write"
+  ],
+  "correct": 0,
+  "group": "Hula Dancing in Hawaiian Culture"
+ },
+ {
+  "id": "unit04_0029",
+  "word": "evoke",
+  "pos": "v.",
+  "tr": "вызывать (в памяти)",
+  "options": [
+   "to bring to mind",
+   "to cut and shape hard material",
+   "to perform well",
+   "to try to stop or prevent something"
+  ],
+  "correct": 0,
+  "group": "Hula Dancing in Hawaiian Culture"
+ },
+ {
+  "id": "unit04_0030",
+  "word": "floral",
+  "pos": "adj.",
+  "tr": "цветочный",
+  "options": [
+   "relating to a particular area or type of work",
+   "related to flowers",
+   "famous",
+   "funny, entertaining"
+  ],
+  "correct": 1,
+  "group": "Hula Dancing in Hawaiian Culture"
+ },
+ {
+  "id": "unit04_0031",
+  "word": "garland",
+  "pos": "n.",
+  "tr": "гирлянда",
+  "options": [
+   "a set of actions used as part of a ceremony",
+   "the ability to read and write",
+   "a decorative rope of flowers or leaves",
+   "an effect, power"
+  ],
+  "correct": 2,
+  "group": "Hula Dancing in Hawaiian Culture"
+ },
+ {
+  "id": "unit04_0032",
+  "word": "graceful",
+  "pos": "adj.",
+  "tr": "грациозный",
+  "options": [
+   "related to flowers",
+   "having beauty of movement",
+   "not concrete, related to ideas or feelings",
+   "made to seem more or bigger"
+  ],
+  "correct": 1,
+  "group": "Hula Dancing in Hawaiian Culture"
+ },
+ {
+  "id": "unit04_0033",
+  "word": "image",
+  "pos": "n.",
+  "tr": "образ",
+  "options": [
+   "an object used to represent something else",
+   "a social event to mark a special day or occasion",
+   "human society, its organization and culture",
+   "a mental picture"
+  ],
+  "correct": 3,
+  "group": "Hula Dancing in Hawaiian Culture"
+ },
+ {
+  "id": "unit04_0034",
+  "word": "influence",
+  "pos": "n.",
+  "tr": "влияние",
+  "options": [
+   "an effect, power",
+   "signs, proof something is or is not true",
+   "weakness and lack of strength",
+   "the first maker of something"
+  ],
+  "correct": 0,
+  "group": "Hula Dancing in Hawaiian Culture"
+ },
+ {
+  "id": "unit04_0035",
+  "word": "reign",
+  "pos": "n.",
+  "tr": "правление",
+  "options": [
+   "set of traditional stories used to explain the origins of things",
+   "appearance of being real, false impression",
+   "the ability to read and write",
+   "the period of time that a king or queen is in power"
+  ],
+  "correct": 3,
+  "group": "Hula Dancing in Hawaiian Culture"
+ },
+ {
+  "id": "unit04_0036",
+  "word": "revive",
+  "pos": "v.",
+  "tr": "возрождать",
+  "options": [
+   "to mark a surface with words or letters",
+   "to try to stop or prevent something",
+   "to bring back to life",
+   "to give credit for or see as the origin of something"
+  ],
+  "correct": 2,
+  "group": "Hula Dancing in Hawaiian Culture"
+ },
+ {
+  "id": "unit04_0037",
+  "word": "ritual",
+  "pos": "n.",
+  "tr": "ритуал",
+  "options": [
+   "an act, especially a good or bad one",
+   "person who has a lot of knowledge about a particular subject",
+   "a set of actions used as part of a ceremony",
+   "an effect, power"
+  ],
+  "correct": 2,
+  "group": "Hula Dancing in Hawaiian Culture"
+ },
+ {
+  "id": "unit04_0038",
+  "word": "stereotype",
+  "pos": "n.",
+  "tr": "стереотип",
+  "options": [
+   "a fixed idea people have, especially one that is wrong",
+   "a decorative rope of flowers or leaves",
+   "appearance of being real, false impression",
+   "the ability to read and write"
+  ],
+  "correct": 0,
+  "group": "Hula Dancing in Hawaiian Culture"
+ },
+ {
+  "id": "unit04_0039",
+  "word": "sway",
+  "pos": "v.",
+  "tr": "покачиваться",
+  "options": [
+   "to improve, perfect",
+   "to bring to mind",
+   "to combine",
+   "to move back and forth"
+  ],
+  "correct": 3,
+  "group": "Hula Dancing in Hawaiian Culture"
+ },
+ {
+  "id": "unit04_0040",
+  "word": "tradition",
+  "pos": "n.",
+  "tr": "традиция",
+  "options": [
+   "a table or similar structure for religious ceremonies",
+   "person who has a lot of knowledge about a particular subject",
+   "a custom or belief of a group of people",
+   "appearance of being real, false impression"
+  ],
+  "correct": 2,
+  "group": "Hula Dancing in Hawaiian Culture"
+ },
+ {
+  "id": "unit04_0041",
+  "word": "abstract",
+  "pos": "adj.",
+  "tr": "абстрактный",
+  "options": [
+   "having a lot of energy",
+   "relating to a particular area or type of work",
+   "made to seem more or bigger",
+   "not concrete, related to ideas or feelings"
+  ],
+  "correct": 3,
+  "group": "The Art of Mime"
+ },
+ {
+  "id": "unit04_0042",
+  "word": "atmosphere",
+  "pos": "n.",
+  "tr": "атмосфера",
+  "options": [
+   "the period of time that a king or queen is in power",
+   "a mental picture",
+   "the feeling of a place",
+   "a thin, flat piece of material to write on"
+  ],
+  "correct": 2,
+  "group": "The Art of Mime"
+ },
+ {
+  "id": "unit04_0043",
+  "word": "conflict",
+  "pos": "n.",
+  "tr": "конфликт",
+  "options": [
+   "the feeling of a place",
+   "person who has a lot of knowledge about a particular subject",
+   "difficulty, opposition",
+   "an area of digging, especially to find objects from past cultures"
+  ],
+  "correct": 2,
+  "group": "The Art of Mime"
+ },
+ {
+  "id": "unit04_0044",
+  "word": "considerably",
+  "pos": "adv.",
+  "tr": "значительно",
+  "options": [
+   "a great deal, noticeably",
+   "to accept or start to use something new",
+   "to go with, happen at the same time",
+   "well, successfully"
+  ],
+  "correct": 0,
+  "group": "The Art of Mime"
+ },
+ {
+  "id": "unit04_0045",
+  "word": "culminate",
+  "pos": "v.",
+  "tr": "завершаться",
+  "options": [
+   "to result in, end with",
+   "to accept or start to use something new",
+   "to go with, happen at the same time",
+   "to include"
+  ],
+  "correct": 0,
+  "group": "The Art of Mime"
+ },
+ {
+  "id": "unit04_0046",
+  "word": "effectively",
+  "pos": "adv.",
+  "tr": "эффективно",
+  "options": [
+   "well, successfully",
+   "the first maker of something",
+   "a great deal, noticeably",
+   "to bring to mind"
+  ],
+  "correct": 0,
+  "group": "The Art of Mime"
+ },
+ {
+  "id": "unit04_0047",
+  "word": "emerge",
+  "pos": "v.",
+  "tr": "возникать",
+  "options": [
+   "to bring back to life",
+   "to combine",
+   "to appear, develop",
+   "to result in, end with"
+  ],
+  "correct": 2,
+  "group": "The Art of Mime"
+ },
+ {
+  "id": "unit04_0048",
+  "word": "exaggerated",
+  "pos": "adj.",
+  "tr": "преувеличенный",
+  "options": [
+   "important, major",
+   "not concrete, related to ideas or feelings",
+   "made to seem more or bigger",
+   "related to farming"
+  ],
+  "correct": 2,
+  "group": "The Art of Mime"
+ },
+ {
+  "id": "unit04_0049",
+  "word": "frailty",
+  "pos": "n.",
+  "tr": "хрупкость",
+  "options": [
+   "something that is owned",
+   "the ability to read and write",
+   "a thin, flat piece of material to write on",
+   "weakness and lack of strength"
+  ],
+  "correct": 3,
+  "group": "The Art of Mime"
+ },
+ {
+  "id": "unit04_0050",
+  "word": "gesture",
+  "pos": "n.",
+  "tr": "жест",
+  "options": [
+   "the feeling of a place",
+   "person who has a lot of knowledge about a particular subject",
+   "a movement to express a feeling or idea",
+   "an area of digging, especially to find objects from past cultures"
+  ],
+  "correct": 2,
+  "group": "The Art of Mime"
+ },
+ {
+  "id": "unit04_0051",
+  "word": "humorous",
+  "pos": "adj.",
+  "tr": "юмористический",
+  "options": [
+   "important, major",
+   "funny, entertaining",
+   "made to seem more or bigger",
+   "having a lot of detail and decoration"
+  ],
+  "correct": 1,
+  "group": "The Art of Mime"
+ },
+ {
+  "id": "unit04_0052",
+  "word": "illusion",
+  "pos": "n.",
+  "tr": "иллюзия",
+  "options": [
+   "an act, especially a good or bad one",
+   "a social event to mark a special day or occasion",
+   "something that is built, such as a building or bridge",
+   "appearance of being real, false impression"
+  ],
+  "correct": 3,
+  "group": "The Art of Mime"
+ },
+ {
+  "id": "unit04_0053",
+  "word": "literal",
+  "pos": "adj.",
+  "tr": "буквальный",
+  "options": [
+   "following the exact meaning",
+   "funny, entertaining",
+   "having a lot of energy",
+   "related to farming"
+  ],
+  "correct": 0,
+  "group": "The Art of Mime"
+ },
+ {
+  "id": "unit04_0054",
+  "word": "merge",
+  "pos": "v.",
+  "tr": "сливаться",
+  "options": [
+   "to combine",
+   "to try to stop or prevent something",
+   "to go with, happen at the same time",
+   "to cut and shape hard material"
+  ],
+  "correct": 0,
+  "group": "The Art of Mime"
+ },
+ {
+  "id": "unit04_0055",
+  "word": "portray",
+  "pos": "v.",
+  "tr": "изображать",
+  "options": [
+   "to represent, act out",
+   "to establish a permanent place to live",
+   "to perform well",
+   "to appear, develop"
+  ],
+  "correct": 0,
+  "group": "The Art of Mime"
+ },
+ {
+  "id": "unit04_0056",
+  "word": "prominent",
+  "pos": "adj.",
+  "tr": "выдающийся",
+  "options": [
+   "not concrete, related to ideas or feelings",
+   "important, major",
+   "having beauty of movement",
+   "famous"
+  ],
+  "correct": 1,
+  "group": "The Art of Mime"
+ },
+ {
+  "id": "unit04_0057",
+  "word": "prop",
+  "pos": "n.",
+  "tr": "реквизит",
+  "options": [
+   "person who has a lot of knowledge about a particular subject",
+   "an object used by actors",
+   "a table or similar structure for religious ceremonies",
+   "a mental picture"
+  ],
+  "correct": 1,
+  "group": "The Art of Mime"
+ },
+ {
+  "id": "unit04_0058",
+  "word": "reminiscent",
+  "pos": "adj.",
+  "tr": "напоминающий",
+  "options": [
+   "similar to, reminding of something",
+   "important, major",
+   "having a lot of energy",
+   "related to farming"
+  ],
+  "correct": 0,
+  "group": "The Art of Mime"
+ },
+ {
+  "id": "unit04_0059",
+  "word": "renowned",
+  "pos": "adj.",
+  "tr": "известный",
+  "options": [
+   "relating to a particular area or type of work",
+   "famous",
+   "having a lot of detail and decoration",
+   "related to flowers"
+  ],
+  "correct": 1,
+  "group": "The Art of Mime"
+ },
+ {
+  "id": "unit04_0060",
+  "word": "sharpen",
+  "pos": "v.",
+  "tr": "оттачивать",
+  "options": [
+   "to try to stop or prevent something",
+   "to accept or start to use something new",
+   "to improve, perfect",
+   "to result in, end with"
+  ],
+  "correct": 2,
+  "group": "The Art of Mime"
+ }
+]
