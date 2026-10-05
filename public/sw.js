@@ -1,11 +1,13 @@
-const C = 'vt-v1'
+const C = 'vt-v2'
 self.addEventListener('install', () => self.skipWaiting())
 self.addEventListener('activate', e => e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== C).map(k => caches.delete(k)))).then(() => self.clients.claim())))
-// Кэш сначала, обновление в фоне: сайт и наборы работают без сети.
+// Страницы и данные (.json): сначала сеть, кэш — только если сети нет. Остальное (файлы с хэшем): кэш сначала.
 self.addEventListener('fetch', e => {
-  if (e.request.method !== 'GET' || !e.request.url.startsWith(self.location.origin)) return
+  const r = e.request, u = new URL(r.url)
+  if (r.method !== 'GET' || u.origin !== self.location.origin) return
+  const fresh = r.mode === 'navigate' || u.pathname.endsWith('.json')
   e.respondWith(caches.open(C).then(async c => {
-    const hit = await c.match(e.request, { ignoreSearch: true })
-    const net = fetch(e.request).then(r => { if (r.ok) c.put(e.request, r.clone()); return r }).catch(() => hit)
-    return hit || net }))
+    const hit = await c.match(r, { ignoreSearch: true })
+    const net = () => fetch(r, fresh ? { cache: 'no-cache' } : undefined).then(res => { if (res.ok) c.put(r, res.clone()); return res })
+    return fresh ? net().catch(() => hit) : (hit || net()) }))
 })
